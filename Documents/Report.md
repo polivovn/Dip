@@ -21,10 +21,10 @@
 Всего тест-кейсов 12 из них:
 
 
- успешных-8 (для test.PaymentByCreditCard и test.PaymentByDebitCard)
+ Успешных-8 (для test.PaymentByCreditCard и test.PaymentByDebitCard)
 
  
- неуспешных-16 (для test.PaymentByCreditCard и test.PaymentByDebitCard)
+ Неуспешных-16 (для test.PaymentByCreditCard и test.PaymentByDebitCard)
 
 
 ![Снимок экрана 2024-03-26 190445](https://github.com/polivovn/Dip/assets/139216581/c487b48e-0e9c-4e21-afcb-930067beee84)
