@@ -1,12 +1,12 @@
 # Окружение
 
--Установить IntelliJ IDEA Ultimate
+- Установить IntelliJ IDEA Ultimate
 
 
 https://www.jetbrains.com/ru-ru/idea/download/?section=windows
 
 
--Установить  Docker Desktop
+- Установить  Docker Desktop
 
 
 https://www.docker.com/products/docker-desktop/
@@ -15,16 +15,16 @@ https://www.docker.com/products/docker-desktop/
 # Процедура запуска автотестов
 
 
--Открыть  Docker Desktop
+- Открыть  Docker Desktop
 
 
--Открыть IntelliJ IDEA Ultimate
+- Открыть IntelliJ IDEA Ultimate
 
 
--С помощью команды open найти в папке файл Diplom56
+- С помощью команды open найти в папке файл Diplom56
 
 
--Открыть терминал в IntelliJ IDEA Ultimate поочередно нажать команды:
+- Открыть терминал в IntelliJ IDEA Ultimate поочередно нажать команды:
 
 
 1. docker-compose up  (запуск контейнера)
